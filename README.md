@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe Vilasi</h1>
 <h3 align="center">A passionate frontend developer from Pennsylvania</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilasi" alt="vilasi" /></a> </p>
-
 - 🔭 I’m currently working on [Penn-Northwest Homegrown Initiative](https://github.com/Vilasi/pndc-homegrown-initiative)
 
 - 🌱 I’m currently learning **Full-Stack Software Engineering**
