@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Penn-Northwest Homegrown Initiative](https://github.com/Vilasi/pndc-homegrown-initiative)
 
-- 🌱 I’m currently learning **Express and Node.js**
+- 🌱 I’m currently learning **React and Node.js**
 
 - 👨‍💻 All of my projects are available at [joevilasi.com](joevilasi.com)
 
