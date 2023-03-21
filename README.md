@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Penn-Northwest Homegrown Initiative](https://github.com/Vilasi/pndc-homegrown-initiative)
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **MERN Stack Webapp Development**
 
 - 👨‍💻 All of my projects are available at [joevilasi.com](joevilasi.com)
 
