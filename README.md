@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Vilasi</h1>
 <h3 align="center">A passionate developer from the US</h3>
 
-- 🔭 I’m currently working on [Penn-Northwest Homegrown Initiative](https://github.com/Vilasi/pndc-homegrown-initiative)
+- 🔭 I’m currently working on [Penn-Northwest Website Redesign](https://github.com/Vilasi/pndc-homegrown-initiative)
 
 - 🌱 I’m currently learning **MERN Stack Webapp Development**
 
