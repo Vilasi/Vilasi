@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joe Vilasi</h1>
 <h3 align="center">A passionate developer from the US</h3>
 
-- 🔭 I’m currently working on [Penn-Northwest Website Redesign](https://github.com/Vilasi/pndc-homegrown-initiative)
+- 🔭 I’m currently working on mastering React.js 
 
 - 🌱 I’m currently learning **MERN Stack Webapp Development**
 
-- 👨‍💻 All of my projects are available at [joevilasi.com](joevilasi.com)
+- 👨‍💻 A sampling of my recent production projects are viewable on my portfolio at [joevilasi.com](joevilasi.com)
 
 - 📫 How to reach me **VilasiCoding@gmail.com**
 
-- ⚡ Fun fact **I gig at a piano bar every now and then**
+- ⚡ Fun fact **I also work as a piano teacher in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
