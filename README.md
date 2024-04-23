@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Webapp Development**
 
-- 👨‍💻 A sampling of my recent production projects are viewable on my portfolio at [joevilasi.com](joevilasi.com)
+- 👨‍💻 A sampling of my recent production projects are viewable on my portfolio at [joevilasi.com](https://joevilasi.com)
 
 - 📫 How to reach me **VilasiCoding@gmail.com**
 
